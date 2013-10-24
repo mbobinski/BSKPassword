@@ -1,5 +1,8 @@
 #!/usr/local/bin/python
 # -*- coding: utf-8 -*-
+
+# Author: Mateusz Bobiński
+
 from socket import *
 from random import randint
 import hashlib
